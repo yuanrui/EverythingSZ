@@ -2,11 +2,12 @@
 
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
-    <TargetFrameworks>net472;netcoreapp3.1</TargetFrameworks>
+    <TargetFrameworks>netcoreapp3.1</TargetFrameworks>
     <PublishSingleFile>true</PublishSingleFile>
     <UseWindowsForms>true</UseWindowsForms>
     <RuntimeIdentifier>win-x86</RuntimeIdentifier>
     <ApplicationIcon>Resources\app.ico</ApplicationIcon>
+    <AssemblyName>EverythingSZ</AssemblyName>
   </PropertyGroup>
 
   <ItemGroup>
