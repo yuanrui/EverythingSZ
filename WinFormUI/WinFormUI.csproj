@@ -7,7 +7,7 @@
     <UseWindowsForms>true</UseWindowsForms>
     <RuntimeIdentifier>win-x86</RuntimeIdentifier>
     <ApplicationIcon>Resources\app.ico</ApplicationIcon>
-    <AssemblyName>EverythingSZ</AssemblyName>
+    <AssemblyName>EverythingSZ.UI</AssemblyName>
   </PropertyGroup>
 
   <ItemGroup>
