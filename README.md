@@ -6,5 +6,6 @@ Visual Studio 2019 Community edition and above is recommended to compile the cod
 ## License
 
 WinFormUI: MIT
+
 EverythingSZ: Ms-PL
 
